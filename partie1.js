@@ -10,7 +10,7 @@ for(let age=11;age<=20;age++){
         console.log(`La personne a ${age}ans et le prix du billet est ${prix}FCFA`);
         x++;
     }
-    else if(age>=16 && age<18){
+    else {
         const prixr=2500;
         prixg=prixg+prixr;
         console.log(`La personne a ${age}ans et le prix du billet est ${prixr}FCFA`);
