@@ -2,7 +2,7 @@ Sortie des exécutions
 
 Partie1
 
-PS C:\Users\DELL\Documents\recette-cinema\recette-cinema> node partie1.js
+PS C:\Users\DELL\Documents\recette-cinema\recette-cinema> node partie1.js                   
 La personne a 11ans et le prix du billet est 1500FCFA
 La personne a 12ans et le prix du billet est 1500FCFA
 La personne a 13ans et le prix du billet est 1500FCFA
@@ -14,11 +14,11 @@ La personne a 18ans et le prix du billet est 2500FCFA
 La personne a 19ans et le prix du billet est 2500FCFA
 La personne a 20ans et le prix du billet est 2500FCFA
 La recette total est 20000
-On a pour les moins de 16ans les tikets vendus sont au nombre de 5 et pour les plus de 16ans sont au nombre de 5
+On a pour les moins de 16ans(11-15ans) les tikets vendus sont au nombre de 5 et pour les plus de 16ans(16-20ans) sont au nombre de 5
 
 Partie2
 
-PS C:\Users\DELL\Documents\recette-cinema\recette-cinema> node partie2.js
+PS C:\Users\DELL\Documents\recette-cinema\recette-cinema> node partie2.js                   
 La personne a 11ans et le prix du billet est 1500FCFA
 La personne a 12ans et le prix du billet est 1500FCFA
 La personne a 13ans et le prix du billet est 1500FCFA
@@ -30,4 +30,4 @@ La personne a 18ans et le prix du billet est 2000
 La personne a 19ans et le prix du billet est 2000
 La personne a 20ans et le prix du billet est 2000
 La recette total est 18500
-On a pour les moins de 16ans les tikets vendus sont au nombre de 5 et pour les plus de 16ans sont au nombre de 2 et pour ceux de 18 à plus sont 3
+On a pour les moins de 16ans (11-15ans) les tikets vendus sont au nombre de 5, pour ceux de 16ans à 17ans sont au nombre de 2 et pour ceux de 18 à 20 sont 3

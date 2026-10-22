@@ -30,4 +30,4 @@ for(let age=11;age<=20;age++){
 let recetteTotal=0;
 recetteTotal=prixp+prixg+prixs;
 console.log(`La recette total est ${recetteTotal}`)
-console.log(`On a pour les moins de 16ans les tikets vendus sont au nombre de ${x} et pour les plus de 16ans sont au nombre de ${y} et pour ceux de 18 à plus sont ${z}`);
+console.log(`On a pour les moins de 16ans (11-15ans) les tikets vendus sont au nombre de ${x}, pour ceux de 16 à 17ans sont au nombre de ${y} et pour ceux de 18 à 20 sont ${z}`);
