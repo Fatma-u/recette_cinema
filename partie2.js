@@ -4,28 +4,29 @@ let z=0;
 let prixp=0;
 let prixg=0;
 let prixs=0;
+let prix=1500;
+let prixr=2500;
+let b=prixr-500;
+
 for(let age=11;age<=20;age++){
     if(age<16){
-        const prix=1500;
         prixp=prixp+prix;
         console.log(`La personne a ${age}ans et le prix du billet est ${prix}FCFA`);
         x++;
     }
     else if(age<18){
-        const prixr=2500;
         prixg=prixg+prixr;
         console.log(`La personne a ${age}ans et le prix du billet est ${prixr}FCFA`);
         y++;
         
     }
     else{
-        const b=2000;
         prixs=prixs+b;
         console.log(`La personne a ${age}ans et le prix du billet est ${b}`);
         z++;
 
     }
-
+    
 }
 let recetteTotal=0;
 recetteTotal=prixp+prixg+prixs;
